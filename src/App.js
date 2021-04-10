@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="New York" />
         <footer>
-          This project was coded by Victoria Ruiz and it's {""} 
+          This project was coded by Victoria Ruiz and is {""} 
           <a href="https://github.com/vicrufer/react-weather-app" target="_blank" rel="noreferrer">
             open-sourced on Github
           </a>
