@@ -3,27 +3,27 @@ import "./Penguin.css";
 
 export default function Penguin() {
     return (
-        <div class="penguin">
-            <div class="penguin-bottom">
-                <div class="right-hand"></div>
-                <div class="left-hand"></div>
-                <div class="right-feet"></div>
-                <div class="left-feet"></div>
+        <div className="penguin">
+            <div className="penguin-bottom">
+                <div className="right-hand"></div>
+                <div className="left-hand"></div>
+                <div className="right-feet"></div>
+                <div className="left-feet"></div>
             </div>
-            <div class="penguin-top">
-                <div class="right-cheek"></div>
-                <div class="left-cheek"></div>
-                <div class="belly"></div>
-                <div class="right-eye">
-                    <div class="sparkle"></div>
+            <div className="penguin-top">
+                <div className="right-cheek"></div>
+                <div className="left-cheek"></div>
+                <div className="belly"></div>
+                <div className="right-eye">
+                    <div className="sparkle"></div>
                 </div>
-                <div class="left-eye">
-                    <div class="sparkle"></div>
+                <div className="left-eye">
+                    <div className="sparkle"></div>
                 </div>
-                <div class="blush-right"></div>
-                <div class="blush-left"></div>
-                <div class="beak-top"></div>
-                <div class="beak-bottom"></div>
+                <div className="blush-right"></div>
+                <div className="blush-left"></div>
+                <div className="beak-top"></div>
+                <div className="beak-bottom"></div>
             </div>
         </div>
     );
