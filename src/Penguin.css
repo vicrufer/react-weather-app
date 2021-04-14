@@ -198,3 +198,7 @@
 .penguin * {
     position: absolute;
 }
+
+.body{
+    background-color: black;
+}
