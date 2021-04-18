@@ -1,11 +1,11 @@
 .WeatherForecast {
     text-align: center;
     margin-top: 15px;
-    background-color: rgb(179, 255, 255);
+    background-color:rgba(195, 155, 214, 0.7);
     border-radius: 15px;
     padding: 5px 10px;
-    border: 1px solid black;
-    box-shadow: 10px 5px 5px rgb(151, 149, 149);
+    border: none;
+    color: black;
 }
 
 .WeatherForecast-temperature-min {

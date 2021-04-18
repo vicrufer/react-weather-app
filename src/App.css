@@ -1,17 +1,18 @@
+body {
+    background-color: #021735;
+   }
+
 .App {
     max-width: 800px;
     margin: 15px auto;
 }
 
 .App footer {
-    font-size: 11px;
+    font-size: 14px;
     margin: 10px 0;
+    color: white;
 }
 
-.penguin {
-    padding: 0;
-}
-
-.application {
-    padding: 0;
+.github {
+    color: blueviolet;
 }
